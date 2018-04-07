@@ -1,0 +1,7 @@
+{
+  "react": "ooyoow/react-boilerplate",
+  "react-mobile":"ooyoow/react-mobile",  
+  "react-typescript": "ooyoow/react-typescript",
+  "vue": "ooyoow/vue-boilerplate",
+  "vue-typescript": "ooyoow/vue-typescript"
+}

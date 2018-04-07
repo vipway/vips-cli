@@ -1,0 +1,36 @@
+{
+  "name": "vips-cli",
+  "version": "0.0.1",
+  "description": "to fast create project",
+  "bin": {
+    "vips": "bin/vips.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipway/vips-cli.git"
+  },
+  "keywords": [
+    "front",
+    "react",
+    "vue"
+  ],
+  "author": "jiawei.mao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vipway/vips-cli/issues"
+  },
+  "homepage": "https://github.com/vipway/vips-cli#readme",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "commander": "^2.15.1",
+    "download-git-repo": "^1.0.2",
+    "import-global": "^0.1.0",
+    "semver": "^5.5.0"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
